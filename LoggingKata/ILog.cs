@@ -10,3 +10,4 @@ namespace LoggingKata
         void LogDebug(string log);
     }
 }
+
